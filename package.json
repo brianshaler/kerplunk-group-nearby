@@ -51,5 +51,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/brianshaler/kerplunk-group-nearby.git"
-  }
+  },
+  "license": "MIT"
 }
