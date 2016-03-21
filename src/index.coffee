@@ -68,7 +68,7 @@ module.exports = (System) ->
       items = _.filter items, (item) ->
         radius > dist location, item.location
       # console.log 'items', items.length, items?[0]?.identity
-      identities = _.pluck items, 'identity'
+      identities = _.map items, 'identity'
       identities
 
   updateGroup = (group, identities) ->

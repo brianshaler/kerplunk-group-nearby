@@ -32,7 +32,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "lodash": "^3.7.0",
+    "lodash": "^4.6.1",
     "react": "^0.13.3",
     "react-bootstrap": "^0.24.2",
     "when": "^3.7.3"
