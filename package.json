@@ -2,7 +2,7 @@
   "name": "kerplunk-group-nearby",
   "displayName": "Group Nearby Friends",
   "description": "Manage a group based on who is nearby.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "kerplunk": {
     "dependencies": [
       "kerplunk-group",
